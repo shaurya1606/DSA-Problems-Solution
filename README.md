@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
