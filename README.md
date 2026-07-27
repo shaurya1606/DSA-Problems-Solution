@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
