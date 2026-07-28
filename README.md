@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0036-valid-sudoku) |
+| [0142-linked-list-cycle-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
