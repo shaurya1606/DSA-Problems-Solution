@@ -12,27 +12,33 @@ public:
 class Solution {
 public:
     Node* flatten(Node* head) {
-        if (head == nullptr) return nullptr;
+        if(!head) return head;
 
-        stack<Node*> st;
-        Node* tail = head;
+        Node* curr = head;
 
-        while (tail) {
-            if (tail->child) {
-                if(tail->next) st.push(tail->next);
-                tail->child->prev = tail;
-                tail->next = tail->child;
-                tail->child = nullptr;
-            }
-            else if (tail->next == nullptr && !st.empty()) {
-                tail->next = st.top();
-                st.top()->prev = tail;
-                st.pop();
+        while(curr) {
+            if(!curr->child) {
+                curr = curr->next;
+                continue;
             }
 
-            tail = tail->next;
+            if(curr->child) {
+                Node* currChild = curr->child;
+
+                currChild->prev = curr;
+
+                while(currChild->next){
+                    currChild = currChild->next;
+                }
+
+                currChild->next = curr->next;
+                if (curr->next) curr->next->prev = currChild;
+            }
+
+            curr->next = curr->child;
+            curr->child = nullptr;
+            curr = curr->next;
         }
-
         return head;
     }
 };
