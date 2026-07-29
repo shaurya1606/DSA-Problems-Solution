@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1603-design-parking-system) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0392-is-subsequence) |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
