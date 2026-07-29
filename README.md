@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1603-design-parking-system) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
+| [1603-design-parking-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1603-design-parking-system) |
 ## Randomized
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0068-text-justification) |
+| [1603-design-parking-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1603-design-parking-system) |
 ## Binary Search
 |  |
 | ------- |
