@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1603-design-parking-system) |
 ## Randomized
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
@@ -207,4 +211,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
