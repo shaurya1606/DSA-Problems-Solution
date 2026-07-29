@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
+| [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
+| [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1603-design-parking-system) |
+| [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 ## Randomized
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0392-is-subsequence) |
+| [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -216,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
