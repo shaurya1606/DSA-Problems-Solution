@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0392-is-subsequence) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
