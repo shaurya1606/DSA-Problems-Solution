@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0135-candy) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0392-is-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
