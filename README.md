@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1603-design-parking-system) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0135-candy) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0392-is-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
