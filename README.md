@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2353-design-a-food-rating-system](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/2353-design-a-food-rating-system) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0036-valid-sudoku) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
