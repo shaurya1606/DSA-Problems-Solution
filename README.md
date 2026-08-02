@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1472-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -252,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
