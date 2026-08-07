@@ -293,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/shaurya1606/DSA-Problems-Solution/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
